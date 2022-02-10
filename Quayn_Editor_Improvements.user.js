@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         Quayn Editor Improvements
-// @namespace    http://quayn.eu/
+// @namespace    https://www.quayn.nl/
 // @version      0.1
 // @description  Several tweaks to the Quayn Editor
 // @author       Rick Rozemuller
