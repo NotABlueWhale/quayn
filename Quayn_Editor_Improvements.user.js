@@ -268,6 +268,10 @@
                     max-width: 12vw;
                 }
 
+                .gridBox.navigation {
+                    padding-top: 1vh !important;
+                }
+
                 /* Fix grid to full page */
                 #projectController .gridMain {
                     /*grid-auto-rows: max-content;*/
